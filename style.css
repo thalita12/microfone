@@ -1,0 +1,9 @@
+html { font-family: 'Indie Flower', cursive; }
+body { background-image: url('images/wallpaper.png'); background-repeat: repeat; }
+h1 { text-align: center; margin: 3rem auto 0; font-size: 2.5rem; color: #6b48ff; }
+h2 { text-align: center; margin: 1.5rem auto; font-size: 1.5rem; color: #6b778d; font-weight: 600; }
+h4 { margin: 2rem auto 1rem; font-size: 1.2rem; font-weight: 600; color: #6b778d; }
+strong { font-weight: bold; }
+.btn-principal { font-size: 3rem; padding: 1rem 2rem; background-color: #878ecd; color: #fff; border-radius: .25rem; border: 1px solid  rgba(0,0,0,.2); }
+.centralizar { width: 100%; margin: 0 auto; text-align: center; }
+.output { width: 50%; background-color: #fff; min-height: 100px;  margin: 0 auto; padding: 1rem; font-size: 1.5rem; color: #555; border-radius: .5rem; }
